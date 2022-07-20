@@ -1,0 +1,22 @@
+{
+    "name": "levkagm/yii2-custom-validators",
+    "description": "Custom validators for Yii2 projects",
+    "keywords": ["yii2", "validation", "validate array"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evgen Levchenko",
+            "email": "levkagm@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "yiisoft/yii2": ">=2.0.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Levkagm\\Yii2\\Validators": "src"
+        }
+    }
+}
