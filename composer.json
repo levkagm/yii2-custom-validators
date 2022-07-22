@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Levkagm\\Yii2\\Validators": "src"
+            "Levkagm\\Yii2\\Validators\\": "src"
         }
     }
 }
